@@ -9,5 +9,6 @@ class Dog
   def all 
     @@all.each do |dog|
       puts 
+    end 
   end
 end 
